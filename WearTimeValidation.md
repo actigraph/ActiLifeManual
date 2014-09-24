@@ -54,6 +54,7 @@ Summary-level results of the Wear Time Validation process are available in the m
 After the wear-time has been calculated, details of each wear and non-wear bout can be viewed by clicking the “Details” button to the right of each dataset file name as shown in Figure 39.
 
 ![](/assets/img/WtvDetailsButton.png)
+
 FIGURE 39 – DETAILS VIEW SHOWS EPOCH-BY-EPOCH VALIDATION
 
 Details about which days are considered “valid” can be seen in the details view.  An example is shown in Figure 40.  The Days section details out the number of Wear Time and Non-Wear-Time (in minutes) per calendar day.  The percentages of wear and non-wear for each day are also available here.  The VM column represents the total “Total Vector Magnitude Counts” for that day (see Appendix B – Vector Magnitude for more details).  This number can be used to gauge relative activity from day-to-day.
@@ -63,6 +64,7 @@ The Wear Time and Non-Wear Time Periods section details the wear and non-wear bo
 Clicking the “More” button next to a wear or non-wear bout will reveal the epoch level breakdown for that particular bout on the right hand side.  All data in this view can be copied/pasted by selecting the columns/rows of interest, pressing “Ctrl+C” on the keyboard to copy, then pressing “Ctrl+V” to paste the data into a spreadsheet or text editor.  Use the individual “export” links to export a wear or non-wear period into a *.csv file.
 
 ![](/assets/img/WtvDetails.png)
+
 FIGURE 40 – DETAIL BREAKDOWN OF WEAR AND NON-WEAR TIME FOR A DATASET
 
 ## EXPORT REPORT ##

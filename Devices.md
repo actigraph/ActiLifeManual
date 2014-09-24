@@ -200,6 +200,7 @@ The “Dominance” option allows users to specify whether the wear location sid
 When custom fields are collected as part of a template (see Building and Using a Template for more details), those custom fields will appear in the metadata grid as shown in Figure 29.  Additionally, the “Add Biometric and User Information” check box option will be permanently selected and entry of the custom fields will be required.
 
 ![](/assets/img/CustomFields.png)
+
 FIGURE 29 – CUSTOM FIELDS IN THE BIOMETRIC AND USER INFORMATION GRID
 
 Clicking “Download All Devices” from the form will download the data from the selected units and store the data in SQLite format stored with a *.agd file extension (See Appendix A – File Types in ActiLife6).
@@ -219,12 +220,14 @@ Data downloaded from GT3X+ devices can be scanned for problems at the time of do
 To view the *.gt3x files, select “Communication->Show Download Folder” from the main menu in ActiLife5.  Files will appear in this folder as shown in Figure 30.
 
 ![](/assets/img/gt3xFiles.png)
+
 FIGURE 30 – *.GT3X FILES
 
 ### UNCOMPRESSING *.GT3X FILES ###
 Binary *.gt3x files can be uncompressed to *agd (for use in ActiLife), *csv, or *.dat file format.  Users have the option of creating *.agd files during the download process by checking “Create AGD File” from within the download prompt (see Figure 31).  Because GT3X+ devices record raw accelerometer data (see Appendix A – File Types in ActiLife for details), the parameters for the uncompressed file must be set at the time of download if the “Create AGD File” option is checked.  These parameters include the uncompressed epoch length, the number of axes, step counting, lux (light data), inclinometer (standing, sitting, lying, or off detection), and/or low frequency extension.  For an explanation of these parameters, see Available Channels (Modes) for details.
 
 ![](/assets/img/CreateAgd.png)
+
 FIGURE 31 - CREATING AN AGD FILE ON DOWNLOAD
 
 > Important: Creating an AGD file during the download process will increase the download time significantly depending upon the size of the download.
@@ -232,16 +235,19 @@ FIGURE 31 - CREATING AN AGD FILE ON DOWNLOAD
 Binary *.gt3x files can be uncompressed at a later time if desired (e.g., after emailing or sharing the files).  To uncompress these files at a later time, select “File->Import/Export->Create AGD/CSV/DAT from Raw GT3X+” from the ActiLife main menu.  An export window similar to the one shown in Figure 32 will appear.  Individual *.gt3x files can be added by selecting the “Add GT3X+ Files(s)” option.  All of the *.gt3x files in a directory can be added by selecting “Add Directory…”  Once files are added, the desired file type(s), epoch length, and parameters can be selected within the export tool.  Select “Create File(s)” to export these files to the default download directory.
 
 ![](/assets/img/Gt3xExport.png)
+
 FIGURE 32 – GT3X+ EXPORT TOOL
 
 The GT3X+ export tool can also be accessed by clicking “finished downloading” hyperlink from the devices grid after downloading as shown in Figure 33.  
 
 ![](/assets/img/FinishedDownloading.png)
+
 FIGURE 33 – FINISHED DOWNLOADING HYPERLINK IN DEVICES GRID
 
 Clicking this link for GT3X or legacy ActiSleep devices as shown in Figure 34 will launch the AGD viewer, since these downloads produce an *.agd file by default (see Appendix A – File Types in ActiLife for more information).
 
 ![](/assets/img/FinishedDownloadLink.png)
+
 FIGURE 34 – “FINISHED DOWNLOADING…” LINK IN STATUS COLUMN. LINKS TO AGD VIEWER FOR GT3X AND ACTISLEEP DEVICES
 
 # BUILDING AND USING A TEMPLATE #
@@ -253,6 +259,7 @@ Once a template is created, the template can be saved as an *.agt file.  This fi
 ActiLife Full users will find an option in the File menu entitled “Template Editor.”  Clicking this option will load a form similar to the one shown in Figure 35.  Use this form to setup the desired default initialization and download parameters defined below in Template Parameters.
 
 ![](/assets/img/TemplateEditor.png)
+
 FIGURE 35 – INITIALIZATION/DOWNLOAD TEMPLATE EDITOR
 
 ### TEMPLATE PARAMETERS ###
@@ -287,6 +294,7 @@ The fields entered here will appear in the download grid as shown Figure 36 afte
 Custom fields are stored with the *.gt3x files and/or *.agd files at download time.  When exporting *.gt3x files to *.agd format for analysis in ActiLife, the custom fields will be included as part of the export and will be contained in the *.agd file.  For details about the *.agd schema, see Appendix A – File Types in ActiLife.  In ActiLife version 5.6.0 or later, custom fields appear in the AGD File Viewer.
 
 ![](/assets/img/DownloadCustomFields.png)
+
 FIGURE 36 – CUSTOM FIELDS AS THEY APPEAR AFTER CLICKING “DOWNLOAD”
 
 ### DOWNLOAD SETTINGS ###
@@ -302,6 +310,7 @@ Once the template parameters are set as desired, the template can be saved as a 
 Once the template is saved, a new file with an *.agt file extension will be created similar to the one shown in Figure 37.  This file can be emailed to distribution centers or shared over local networks within organizations.  Users who load this template will be forced to use the parameters as they were defined in the template editor.
 
 ![](/assets/img/TemplateFile.png)
+
 FIGURE 37 – TEMPLATE FILE SAVED TO A USER’S DESKTOP
 
 ### LOADING TEMPLATES ###

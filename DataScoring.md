@@ -5,6 +5,7 @@
 Data Scoring in ActiLife allows users to analyze the details of their dataset(s) by examining Energy Expenditure, METs, Activity Cut Points, Activity Bouts, and Heart Rate Energy Expenditure.  Figure 41 illustrates the Data Scoring tool in action.
 
 ![](/assets/img/DataScoring.png)
+
 FIGURE 41 - DATA SCORING
 
 ## DATE AND TIME FILTERS ##
@@ -13,6 +14,7 @@ Date and time filtering allows users to isolate the data scoring to specific dat
 Multiple filters can be added simultaneously to specifically target certain days or times.  To add a filter, click the “+” button from within the Date and Time Filters grid as shown in Figure 42.  Only checked filters will be applied during data scoring.  Multiple filters can be checked which forces the Data Scoring tool to generate results for two different time periods.  For example, creating a Weekend Mornings filter for Weekends from 6am-10am and then a Weekend Afternoons filter for Weekends from 3pm-6pm would produce data scoring results for both of those time periods only.
 
 ![](/assets/img/FilterEntry.png)
+
 FIGURE 42 - DATE/TIME FILTER ENTRY
 
 Date and time filters can be removed by clicking the “X” icon to the right of the filter.  Remove all filters by clicking the “X” at the top of the grid.  Date and Time Filters persist in ActiLife even if the program is closed and re-opened.
@@ -40,6 +42,7 @@ When the “Cut Points based on Vector Magnitude” box is checked, ActiLife wil
 Details about the default Cut Point algorithms in ActiLife can be found by clicking the “?” icon next to the Cut Points option.
 
 ![](/assets/img/CutPointSets.png)
+
 FIGURE 43 - CUSTOM AND DEFAULT CUT POINTS
 
 ## BOUTS ##
@@ -202,6 +205,7 @@ The HREE algorithm should not be used as a standard for measuring activity energ
 The “Use Validated Data if Available” checkbox option (shown in Figure 44) tells ActiLife whether to use only the wear time as calculated by the Wear Time Validation tool (checked) or whether to use all epochs within the file (unchecked) to perform the Data Scoring.
 
 ![](/assets/img/UseValidatedData.png)
+
 FIGURE 44 - USE VALIDATED DATA IF AVAILABLE
 
 ## DATA SCORING COLUMNS ##
@@ -209,6 +213,7 @@ FIGURE 44 - USE VALIDATED DATA IF AVAILABLE
 There are 75 columns of possible optional calculations that can be made within the Data Scoring tool.  Select the “Edit Columns” option to view the selected columns and to enable/disable columns.  Enabling more columns will extend the time required for ActiLife to perform the calculations and the batch data export (if used).
 
 ![](/assets/img/DataScoringColumns.png)
+
 FIGURE 45 - DATA SCORING COLUMNS
 
 The following parameters can be extracted from user datasets in the Data Scoring tab.
@@ -325,6 +330,7 @@ Results from the Data Scoring tool can be batch exported to a Microsoft Excel ®
 To begin the export, click the “Export” button after performing a calculation in the Data Scoring tab.  Check the “Create Batch View…” option as shown in Figure 46.  Select any of the desired export options and click “Export…”
 
 ![](/assets/img/DataScoringExportOptions.png)
+
 FIGURE 46 - DATA SCORING EXPORT OPTIONS
 
 Depending on the number of variables and files, the export process could take anywhere from 10 seconds to 2 hours.  

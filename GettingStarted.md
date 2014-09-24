@@ -5,6 +5,7 @@
 Download ActiLife 6 from [http://www.theactigraph.com/actilife](http://www.theactigraph.com/actilife "ActiLife") to a known location.  Double-click the icon to start the installer.  After running the ActiLife6 installer, follow the installation instructions in the on-screen prompts.  
 
 ![](/assets/img/ActiLifeSetupIcon.png)
+
 ACTILIFE6 SETUP ICON
 
 > IMPORTANT: Please be sure to remove any ActiGraph devices that you have connected to your computer during installation.  Failure to do so could result in a faulty installation of your ActiLife software.
@@ -13,7 +14,8 @@ ACTILIFE6 SETUP ICON
 
 After installing ActiLife, an icon similar to the one shown here will appear on your desktop.  Double click the icon to start ActiLife 6.
 
-![](/assets/img/ActiLifeDesktopShortcut.png) 
+![](/assets/img/ActiLifeDesktopShortcut.png)
+
 FIGURE 2 – ACTILIFE 6 PROGRAM DESKTOP SHORTCUT
 
 ## LICENSING ##
