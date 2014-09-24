@@ -70,7 +70,7 @@ The file menu in ActiLife contains options related to file manipulation, AGD fil
 FIGURE 9 – ACTILIFE FILE MENU
 
 ## IMPORT/EXPORT ##
-As discussed previously, users can import and export file formats to various formats to meet nearly any need.  For details about the various file formats, see details in [Appendix A – File Types in ActiLife6](/appendix/AppendixA.md "Appendix A").  The table below explains the Import/Export options that are shown in Figure 10.
+As discussed previously, users can import and export file formats to various formats to meet nearly any need.  For details about the various file formats, see details in [Appendix A – File Types in ActiLife6](Appendix.md "Appendix A").  The table below explains the Import/Export options that are shown in Figure 10.
 
 
 <table>
