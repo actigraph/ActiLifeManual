@@ -217,111 +217,112 @@ There are 75 columns of possible optional calculations that can be made within t
 FIGURE 45 - DATA SCORING COLUMNS
 
 The following parameters can be extracted from user datasets in the Data Scoring tab.
-1.	**Subject** - Name of the subject
-2.	**Filename** - Filename of the subject
-3.	**Epoch** - Epoch length in seconds
-4.	**Weight** - The weight of the subject in lbs.
-5.	**Age** - The age of the subject in years
-6.	**Gender** - The gender of the subject
-7.	**Date** - Date in local format
-8.	**Hour** - Hour in local format
-9.	**Day of Week** - Day of the week name in local format
-10.	**Day of Week Num** - Day of the week number: 1=Monday, 2=Tuesday, etc.
-11.	**kcals** - kcals during this hour
-12.	**METs** - MET rate for a period of time
-13.	**Bouts** - Number of Bouts starting in a period of time
-14.	**Total Time in Bouts** - Time of bouts during a period of time
-15.	**Avg Time per Bout** - Average length of time (in minutes) of bouts during a period of time
-16.	**Total Counts in Bouts** - Total counts in bouts during a period of time
-17.	**Bout Start** - The date and time of the start of a bout
-18.	**Bout End** - The date and time of the end of a bout
-19.	**Time in Bout** - The time of a bout in minutes
-20.	**ADL Heart Rate** - Average Non-Sedentary HR between 41 and 79
-21.	**Average Active Heart Rate** - Average HR during active activity (above light)
-22.	**Heart Rate Delta** - The difference between Average Active Heart Rate and ADL Heart Rate
-23.	**Average Active Caloric Expenditure** - Average amount of calories burned above light activity
-24.	**Calibration Ratio** - Ratio of Average Active Caloric Expenditure divided by Heart Rate Delta
-25.	**Light** - Length of time in Light in minutes
-26.	**Moderate** - Length of time in Moderate in minutes
-27.	**Vigorous** - Length of time in Vigorous in minutes
-28.	**Very Vigorous** - Length of time in Very Vigorous in minutes
-29.	**Axis 1 Counts Scored** - Sum of counts for Axis 1 (Y-Axis) during scored time
-30.	**Axis 2 Counts Scored** - Sum of counts for Axis 2 (X-Axis) during scored time
-31.	**Axis 3 Counts Scored** - Sum of counts for Axis 3 (Z-Axis) during scored time
-32.	**Axis 1 Counts Non-Scored** - Sum of counts for Axis 1 (Y-Axis) during non-scored time
-33.	**Axis 2 Counts Non-Scored** - Sum of counts for Axis 2 (X-Axis) during non-scored time
-34.	**Axis 3 Counts Non-Scored** - Sum of counts for Axis 3 (Z-Axis) during non-scored time
-35.	**Axis 1 Counts Total** - Sum of counts for Axis 1 (Y-Axis) during scored and non-scored time
-36.	**Axis 2 Counts Total** - Sum of counts for Axis 2 (X-Axis) during scored and non-scored time
-37.	**Axis 3 Counts Total** - Sum of counts for Axis 3 (Z-Axis) during scored and non-scored time
-38.	**Axis 1 Average Counts Scored** - Average of counts for Axis 1 (Y-Axis) during scored time
-39.	**Axis 2 Average Counts Scored** - Average of counts for Axis 2 (X-Axis) during scored time
-40.	**Axis 3 Average Counts Scored** - Average of counts for Axis 3 (Z-Axis) during scored time
-41.	**Axis 1 Average Counts Non-Scored** - Average of counts for Axis 1 (Y-Axis) during non-scored time
-42.	**Axis 2 Average Counts Non-Scored** - Average of counts for Axis 2 (X-Axis) during non-scored time
-43.	**Axis 3 Average Counts Non-Scored** - Average of counts for Axis 3 (Z-Axis) during non-scored time
-44.	**Axis 1 Average Counts Total** - Average of counts for Axis 1 (Y-Axis) during scored and non-scored time
-45.	**Axis 2 Average Counts Total** - Average of counts for Axis 2 (X-Axis) during scored and non-scored time
-46.	**Axis 3 Average Counts Total** - Average of counts for Axis 3 (Z-Axis) during scored and non-scored time
-47.	**Axis 1 Max Counts Scored** - Maximum count value for Axis 1 (Y-Axis) during scored time
-48.	**Axis 2 Max Counts Scored** - Maximum count value for Axis 2 (X-Axis) during scored time
-49.	**Axis 3 Max Counts Scored** - Maximum count value for Axis 3 (Z-Axis) during scored time
-50.	**Axis 1 Max Counts Non-Scored** - Maximum count value for Axis 1 (Y-Axis) during non-scored time
-51.	**Axis 2 Max Counts Non-Scored** - Maximum count value for Axis 2 (X-Axis) during non-scored time
-52.	**Axis 3 Max Counts Non-Scored** - Maximum count value for Axis 3 (Z-Axis) during non-scored time
-53.	**Axis 1 Max Counts Total** - Maximum count value for Axis 1 (Y-Axis) during scored and non-scored time
-54.	**Axis 2 Max Counts Total** - Maximum count value for Axis 2 (X-Axis) during scored and non-scored time
-55.	**Axis 3 Max Counts Total** - Maximum count value for Axis 3 (Z-Axis) during scored and non-scored time
-56.	**Axis 1 CPM Scored** - Counts Per Minute for Axis 1 (Y-Axis) during scored time
-57.	**Axis 2 CPM Scored** - Counts Per Minute for Axis 2 (X-Axis) during scored time
-58.	**Axis 3 CPM Scored** - Counts Per Minute for Axis 3 (Z-Axis) during scored time
-59.	**Axis 1 CPM Non-Scored** - Counts Per Minute for Axis 1 (Y-Axis) during non-scored time
-60.	**Axis 2 CPM Non-Scored** - Counts Per Minute for Axis 2 (X-Axis) during non-scored time
-61.	**Axis 3 CPM Non-Scored** - Counts Per Minute for Axis 3 (Z-Axis) during non-scored time
-62.	**Axis 1 CPM Total** - Counts Per Minute for Axis 1 (Y-Axis) during scored and non-scored time
-63.	**Axis 2 CPM Total** - Counts Per Minute for Axis 2 (X-Axis) during scored and non-scored time
-64.	**Axis 3 CPM Total** - Counts Per Minute for Axis 3 (Z-Axis) during scored and non-scored time
-65.	**Vector Magnitude Counts Scored** - Vector Magnitude of all 3 Axis during scored time
-66.	**Vector Magnitude Counts Non-Scored** - Vector Magnitude of all 3 Axis during non-scored time
-67.	**Vector Magnitude Counts Total** - Vector Magnitude of all 3 Axis during scored and non-scored time
-68.	**Vector Magnitude Average Counts Scored** - Average Vector Magnitude of all 3 Axis during scored time
-69.	**Vector Magnitude Average Counts Non-Scored** - Average Vector Magnitude of all 3 Axis during non-scored time
-70.	**Vector Magnitude Average Counts Total** - Average Vector Magnitude of all 3 Axis during scored and non-scored time
-71.	**Vector Magnitude Max Counts Scored** - Maximum Vector Magnitude of all 3 Axis during scored time
-72.	**Vector Magnitude Max Counts Non-Scored** - Maximum Vector Magnitude of all 3 Axis during non-scored time
-73.	**Vector Magnitude Max Counts Total** - Maximum Vector Magnitude of all 3 Axis during scored and non-scored time
-74.	**Vector Magnitude CPM Scored** - Vector Magnitude Counts Per Minute during scored time
-75.	**Vector Magnitude CPM Non-Scored** - Vector Magnitude Counts Per Minute during non-scored time
-76.	**Vector Magnitude CPM Total** - Vector Magnitude Counts Per Minute during scored and non-scored time
-77.	**Steps Counts Scored** - Sum of Step Counts during scored time
-78.	**Steps Counts Non-Scored** - Sum of Step Counts during non-scored time
-79.	**Steps Counts Total** - Sum of Step Counts during scored and non-scored time
-80.	**Steps Average Counts Scored** - Average Step Counts during scored time
-81.	**Steps Average Counts Non-Scored** - Average Step Counts during non-scored time
-82.	**Steps Average Counts Total** - Average Step Counts during scored and non-scored time
-83.	**Steps Max Counts Scored** - Maximum Step Counts during scored time
-84.	**Steps Max Counts Non-Scored** - Maximum Step Counts during non-scored time
-85.	**Steps Max Counts Total** - Maximum Step Counts during scored and non-scored time
-86.	**Steps Per Minute Scored** - Steps Per Minute during scored time
-87.	**Steps Per Minute Non-Scored** - Steps Per Minute during non-scored time
-88.	**Steps Per Minute Total** - Steps Per Minute during scored and non-scored time
-89.	**Lux Average Counts Scored** - Average Lux Value during scored time
-90.	**Lux Average Counts Non-Scored** - Average Lux Value during non-scored time
-91.	**Lux Average Counts Total** - Average Lux Value during scored and non-scored time
-92.	**Lux Max Counts Scored** - Maximum Lux Value during scored time
-93.	**Lux Max Counts Non-Scored** - Maximum Lux Value during non-scored time
-94.	**Lux Max Counts Total** - Maximum Lux Value during scored and non-scored time
-95.	**Number of Epochs Scored** - Number of epochs during scored time
-96.	**Number of Epochs Non-Scored** - Number of epochs during non-scored time
-97.	**Number of Epochs Total** - Number of epochs during scored and non-scored time
-98.	**Time Scored** - Length of scored time
-99.	**Time Non-Scored** - Length of non-scored time
-100. **Time Total** - Length of scored and non-scored time
-101. **Calendar Days Scored** - Number of Calendar Days during scored time
-102. **Calendar Days Non-Scored** - Number of Calendar Days during non-scored time
-103. **Calendar Days Total** - Number of Calendar Days during scored and non-scored time
-104. **Wear Time Start** - The start of a wear time
-105. **Wear Time End** - The end of a wear time
+
+1. **Subject** - Name of the subject
+1. **Filename** - Filename of the subject
+1. **Epoch** - Epoch length in seconds
+1. **Weight** - The weight of the subject in lbs.
+1. **Age** - The age of the subject in years
+1. **Gender** - The gender of the subject
+1. **Date** - Date in local format
+1. **Hour** - Hour in local format
+1. **Day of Week** - Day of the week name in local format
+1. **Day of Week Num** - Day of the week number: 1=Monday, 2=Tuesday, etc.
+1. **kcals** - kcals during this hour
+1. **METs** - MET rate for a period of time
+1. **Bouts** - Number of Bouts starting in a period of time
+1. **Total Time in Bouts** - Time of bouts during a period of time
+1. **Avg Time per Bout** - Average length of time (in minutes) of bouts during a period of time
+1. **Total Counts in Bouts** - Total counts in bouts during a period of time
+1. **Bout Start** - The date and time of the start of a bout
+1. **Bout End** - The date and time of the end of a bout
+1. **Time in Bout** - The time of a bout in minutes
+1. **ADL Heart Rate** - Average Non-Sedentary HR between 41 and 79
+1. **Average Active Heart Rate** - Average HR during active activity (above light)
+1. **Heart Rate Delta** - The difference between Average Active Heart Rate and ADL Heart Rate
+1. **Average Active Caloric Expenditure** - Average amount of calories burned above light activity
+1. **Calibration Ratio** - Ratio of Average Active Caloric Expenditure divided by Heart Rate Delta
+1. **Light** - Length of time in Light in minutes
+1. **Moderate** - Length of time in Moderate in minutes
+1. **Vigorous** - Length of time in Vigorous in minutes
+1. **Very Vigorous** - Length of time in Very Vigorous in minutes
+1. **Axis 1 Counts Scored** - Sum of counts for Axis 1 (Y-Axis) during scored time
+1. **Axis 2 Counts Scored** - Sum of counts for Axis 2 (X-Axis) during scored time
+1. **Axis 3 Counts Scored** - Sum of counts for Axis 3 (Z-Axis) during scored time
+1. **Axis 1 Counts Non-Scored** - Sum of counts for Axis 1 (Y-Axis) during non-scored time
+1. **Axis 2 Counts Non-Scored** - Sum of counts for Axis 2 (X-Axis) during non-scored time
+1. **Axis 3 Counts Non-Scored** - Sum of counts for Axis 3 (Z-Axis) during non-scored time
+1. **Axis 1 Counts Total** - Sum of counts for Axis 1 (Y-Axis) during scored and non-scored time
+1. **Axis 2 Counts Total** - Sum of counts for Axis 2 (X-Axis) during scored and non-scored time
+1. **Axis 3 Counts Total** - Sum of counts for Axis 3 (Z-Axis) during scored and non-scored time
+1. **Axis 1 Average Counts Scored** - Average of counts for Axis 1 (Y-Axis) during scored time
+1. **Axis 2 Average Counts Scored** - Average of counts for Axis 2 (X-Axis) during scored time
+1. **Axis 3 Average Counts Scored** - Average of counts for Axis 3 (Z-Axis) during scored time
+1. **Axis 1 Average Counts Non-Scored** - Average of counts for Axis 1 (Y-Axis) during non-scored time
+1. **Axis 2 Average Counts Non-Scored** - Average of counts for Axis 2 (X-Axis) during non-scored time
+1. **Axis 3 Average Counts Non-Scored** - Average of counts for Axis 3 (Z-Axis) during non-scored time
+1. **Axis 1 Average Counts Total** - Average of counts for Axis 1 (Y-Axis) during scored and non-scored time
+1. **Axis 2 Average Counts Total** - Average of counts for Axis 2 (X-Axis) during scored and non-scored time
+1. **Axis 3 Average Counts Total** - Average of counts for Axis 3 (Z-Axis) during scored and non-scored time
+1. **Axis 1 Max Counts Scored** - Maximum count value for Axis 1 (Y-Axis) during scored time
+1. **Axis 2 Max Counts Scored** - Maximum count value for Axis 2 (X-Axis) during scored time
+1. **Axis 3 Max Counts Scored** - Maximum count value for Axis 3 (Z-Axis) during scored time
+1. **Axis 1 Max Counts Non-Scored** - Maximum count value for Axis 1 (Y-Axis) during non-scored time
+1. **Axis 2 Max Counts Non-Scored** - Maximum count value for Axis 2 (X-Axis) during non-scored time
+1. **Axis 3 Max Counts Non-Scored** - Maximum count value for Axis 3 (Z-Axis) during non-scored time
+1. **Axis 1 Max Counts Total** - Maximum count value for Axis 1 (Y-Axis) during scored and non-scored time
+1. **Axis 2 Max Counts Total** - Maximum count value for Axis 2 (X-Axis) during scored and non-scored time
+1. **Axis 3 Max Counts Total** - Maximum count value for Axis 3 (Z-Axis) during scored and non-scored time
+1. **Axis 1 CPM Scored** - Counts Per Minute for Axis 1 (Y-Axis) during scored time
+1. **Axis 2 CPM Scored** - Counts Per Minute for Axis 2 (X-Axis) during scored time
+1. **Axis 3 CPM Scored** - Counts Per Minute for Axis 3 (Z-Axis) during scored time
+1. **Axis 1 CPM Non-Scored** - Counts Per Minute for Axis 1 (Y-Axis) during non-scored time
+1. **Axis 2 CPM Non-Scored** - Counts Per Minute for Axis 2 (X-Axis) during non-scored time
+1. **Axis 3 CPM Non-Scored** - Counts Per Minute for Axis 3 (Z-Axis) during non-scored time
+1. **Axis 1 CPM Total** - Counts Per Minute for Axis 1 (Y-Axis) during scored and non-scored time
+1. **Axis 2 CPM Total** - Counts Per Minute for Axis 2 (X-Axis) during scored and non-scored time
+1. **Axis 3 CPM Total** - Counts Per Minute for Axis 3 (Z-Axis) during scored and non-scored time
+1. **Vector Magnitude Counts Scored** - Vector Magnitude of all 3 Axis during scored time
+1. **Vector Magnitude Counts Non-Scored** - Vector Magnitude of all 3 Axis during non-scored time
+1. **Vector Magnitude Counts Total** - Vector Magnitude of all 3 Axis during scored and non-scored time
+1. **Vector Magnitude Average Counts Scored** - Average Vector Magnitude of all 3 Axis during scored time
+1. **Vector Magnitude Average Counts Non-Scored** - Average Vector Magnitude of all 3 Axis during non-scored time
+1. **Vector Magnitude Average Counts Total** - Average Vector Magnitude of all 3 Axis during scored and non-scored time
+1. **Vector Magnitude Max Counts Scored** - Maximum Vector Magnitude of all 3 Axis during scored time
+1. **Vector Magnitude Max Counts Non-Scored** - Maximum Vector Magnitude of all 3 Axis during non-scored time
+1. **Vector Magnitude Max Counts Total** - Maximum Vector Magnitude of all 3 Axis during scored and non-scored time
+1. **Vector Magnitude CPM Scored** - Vector Magnitude Counts Per Minute during scored time
+1. **Vector Magnitude CPM Non-Scored** - Vector Magnitude Counts Per Minute during non-scored time
+1. **Vector Magnitude CPM Total** - Vector Magnitude Counts Per Minute during scored and non-scored time
+1. **Steps Counts Scored** - Sum of Step Counts during scored time
+1. **Steps Counts Non-Scored** - Sum of Step Counts during non-scored time
+1. **Steps Counts Total** - Sum of Step Counts during scored and non-scored time
+1. **Steps Average Counts Scored** - Average Step Counts during scored time
+1. **Steps Average Counts Non-Scored** - Average Step Counts during non-scored time
+1. **Steps Average Counts Total** - Average Step Counts during scored and non-scored time
+1. **Steps Max Counts Scored** - Maximum Step Counts during scored time
+1. **Steps Max Counts Non-Scored** - Maximum Step Counts during non-scored time
+1. **Steps Max Counts Total** - Maximum Step Counts during scored and non-scored time
+1. **Steps Per Minute Scored** - Steps Per Minute during scored time
+1. **Steps Per Minute Non-Scored** - Steps Per Minute during non-scored time
+1. **Steps Per Minute Total** - Steps Per Minute during scored and non-scored time
+1. **Lux Average Counts Scored** - Average Lux Value during scored time
+1. **Lux Average Counts Non-Scored** - Average Lux Value during non-scored time
+1. **Lux Average Counts Total** - Average Lux Value during scored and non-scored time
+1. **Lux Max Counts Scored** - Maximum Lux Value during scored time
+1. **Lux Max Counts Non-Scored** - Maximum Lux Value during non-scored time
+1. **Lux Max Counts Total** - Maximum Lux Value during scored and non-scored time
+1. **Number of Epochs Scored** - Number of epochs during scored time
+1. **Number of Epochs Non-Scored** - Number of epochs during non-scored time
+1. **Number of Epochs Total** - Number of epochs during scored and non-scored time
+1. **Time Scored** - Length of scored time
+1. **Time Non-Scored** - Length of non-scored time
+1. **Time Total** - Length of scored and non-scored time
+1. **Calendar Days Scored** - Number of Calendar Days during scored time
+1. **Calendar Days Non-Scored** - Number of Calendar Days during non-scored time
+1. **Calendar Days Total** - Number of Calendar Days during scored and non-scored time
+1. **Wear Time Start** - The start of a wear time
+1. **Wear Time End** - The end of a wear time
 
 ## BATCH EXPORTING ##
 
