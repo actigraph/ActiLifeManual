@@ -14,7 +14,7 @@ Contents:
 
    gettingstarted.rst
    devices.rst
-   weartimevalidation.rst
+   wtv.rst
    datascoring.rst
    sleep.rst
    plm.rst
