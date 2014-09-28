@@ -13,15 +13,6 @@ Contents:
    :numbered:
 
    gettingstarted.rst
-   devices.rst
-   wtv.rst
-   datascoring.rst
-   sleep.rst
-   plm.rst
-   graphing.rst
-   nhanes.rst
-   datavault.rst
-   appendix.rst
 
 Indices and tables
 ==================
