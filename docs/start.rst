@@ -1,7 +1,7 @@
 GETTING STARTED
 ===============
 
-DOWNLOADING AND INSTALLING
+Downloading and Installing
 --------------------------
 
 Download ActiLife 6 from http://www.theactigraph.com/actilife to a known
@@ -12,7 +12,7 @@ on-screen prompts.
 .. figure:: /assets/img/ActiLifeSetupIcon.png
    :alt: 
 
-ACTILIFE6 SETUP ICON
+Figure 1 - ActiLife 6 Setup Icon
 
     IMPORTANT: Please be sure to remove any ActiGraph devices that you
     have connected to your computer during installation. Failure to do
@@ -27,9 +27,9 @@ appear on your desktop. Double click the icon to start ActiLife 6.
 .. figure:: /assets/img/ActiLifeDesktopShortcut.png
    :alt: 
 
-FIGURE 2 – ACTILIFE 6 PROGRAM DESKTOP SHORTCUT
+Figure 2 – ActiLife 6 Program Desktop Shortcut
 
-LICENSING
+Licensing
 ---------
 
 ActiLife software is a licensed program and requires users to obtain a
@@ -61,14 +61,14 @@ is required for each computer on which ActiLife is running.
 .. figure:: /assets/img/Activation.png
    :alt: 
 
-FIGURE 3 – ACTILIFE ACTIVATION SCREEN
+Figure 3 – ActiLife Activation Screen
 
 .. figure:: /assets/img/RegistrationConfirmation.png
    :alt: 
 
-FIGURE 4 – ACTILIFE REGISTRATION CONFIRMATION
+Figure 4 – ActiLife Registration Confirmation
 
-ACTIVATION WITHOUT AN INTERNET CONNECTION
+Activation Without an Internet Connection
 -----------------------------------------
 
 For users without an internet connection, ActiLife can be activated by
@@ -88,7 +88,7 @@ ActiLife.
 
 FIGURE 5 – NON-INTERNET ACTIVATION
 
-ACTILIFE NEW FEATURE OVERVIEW
+ActiLife New Feature Overview
 -----------------------------
 
 Each release (update) of ActiLife provides users with a new feature
@@ -99,7 +99,7 @@ each release to quickly illustrate the new features.
 .. figure:: /assets/img/WelcomeScreen.png
    :alt: 
 
-FIGURE 6 – ACTILIFE WELCOME SCREEN
+Figure 6 – ActiLife Welcome Screen
 
 To view this welcome screen again at any time, select the ‘Help’ tab in
 the menu bar and then select ‘ActiLife Tour’ as shown in Figure 7.
@@ -107,4 +107,4 @@ the menu bar and then select ‘ActiLife Tour’ as shown in Figure 7.
 .. figure:: /assets/img/RunWelcomeTour.png
    :alt: 
 
-FIGURE 7 – RUN TOUR FROM HELP MENU
+Figure 7 – Run Tour From Help Menu
