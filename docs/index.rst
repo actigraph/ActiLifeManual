@@ -13,6 +13,7 @@ Contents:
    :numbered:
 
    start.rst
+   menus.rst
 
 Indices and tables
 ==================

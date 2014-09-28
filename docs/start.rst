@@ -108,3 +108,14 @@ the menu bar and then select ‘ActiLife Tour’ as shown in Figure 7.
    :alt: 
 
 Figure 7 – Run Tour From Help Menu
+
+ACTILIFE DATA FORMATS
+---------------------
+
+ActiLife stores and uses data from native \*.agd files which are
+produced during the download or export process for all devices. These
+files are in SQLite Format, which is essentially a small database.
+ActiLife can import data from any legacy file formats by selecting
+“File->Import/Export” and selecting the appropriate action from the menu
+(see the ActiLife Main Menu discussion section in this manual). Multiple
+files can be imported simultaneously.
