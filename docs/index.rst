@@ -12,7 +12,7 @@ Contents:
    :maxdepth: 2
    :numbered:
 
-   gettingstarted.rst
+   start.rst
 
 Indices and tables
 ==================
