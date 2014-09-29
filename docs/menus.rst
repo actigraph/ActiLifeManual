@@ -199,13 +199,13 @@ disable this feature, contact ActiGraph support at
 support@theactigraph.com.
 
 	.. note:: It should be noted that ActiLife automatically downloads the latest
-version of firmware (for all ActiGraph devices) each time the program
-loads. In this way, ActiLife makes every effort to keep users updated
-with the latest firmware for their devices. The latest firmware files
-can be found in the C:<user name>directory.
+	version of firmware (for all ActiGraph devices) each time the program
+	loads. In this way, ActiLife makes every effort to keep users updated
+	with the latest firmware for their devices. The latest firmware files
+	can be found in the C:<user name>directory.
 
 	.. note:: ActiLife ships with the latest versions of firmware available in an
-effort to ensure that our offline customers remain updated.
+	effort to ensure that our offline customers remain updated.
 
 Units of Measurement
 --------------------
