@@ -35,7 +35,7 @@ the scope of this discussion.
 Figure 75 graphically explains the difference between the GT3X and GT3X+
 devices.
 
-.. figure:: /assets/img/FileComparison.png
+.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/FileComparison.png
    :alt: 
 
 FIGURE 75 - COMPARISON OF THE GT3X AND GT3X+ DEVICES (AND ACTILIFE'S
@@ -67,7 +67,7 @@ browser (publically available on the SQLite website) can be used to
 browse the details of the \*.agd files. A file schema is provided in
 Figure A1.
 
-.. figure:: /assets/img/AgdSchema.png
+.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/AgdSchema.png
    :alt: 
 
 FIGURE 76 - \*.AGD FILE SCHEMA
@@ -147,7 +147,7 @@ value given in the header of the DAT file outlines which features were
 active during data collection for the file. Table 6 outlines the values
 of the Mode variable.
 
-.. figure:: /assets/img/ModeWordDefinition.png
+.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/ModeWordDefinition.png
    :alt: 
 
 TABLE 6 - MODE WORD DEFINITIONS
@@ -161,7 +161,7 @@ the magnitude of the resulting vector that forms when combining the
 sampled acceleration from all three axes on any device. Figure 77
 illustrates the axes orientation for all ActiGraph devices.
 
-.. figure:: /assets/img/AxisDefinitions.png
+.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/AxisDefinitions.png
    :alt: 
 
 Figure 77 - Axis Definitions for ActiGraph Devices
@@ -169,7 +169,7 @@ Figure 77 - Axis Definitions for ActiGraph Devices
 When looking at epoch level data (post filtered and accumulated data),
 the Vector Magnitude (or VM) can be defined as
 
-.. figure:: /assets/img/VectorMagnitude.png
+.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/VectorMagnitude.png
    :alt: 
 
 This value can be calculated on a per-epoch basis or as a sum for all

@@ -8,7 +8,7 @@ File Menu
 The file menu in ActiLife contains options related to file manipulation,
 AGD file analysis, and template loading and editing.
 
-.. figure:: /assets/img/FileMenu.png
+.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/FileMenu.png
    :alt: 
 
 Import/Export
@@ -39,7 +39,7 @@ options that are shown in Figure 10.
 	- E.g., reintegrating a 10s epoch file into a 60s epoch file.
 	- Files cannot be reintegrated into smaller epoch lengths (e.g., 15s -> 10s)
 
-.. figure:: /assets/img/ImportExportMenu.png
+.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/ImportExportMenu.png
    :alt: 
 
 Figure 10 – ActiLife Import and Export Menu
@@ -71,7 +71,7 @@ desired epoch length as shown and click “OK.” The new file will be saved
 in the same directory as the existing file with an appended file name
 indicating the new epoch length.
 
-.. figure:: /assets/img/Reintegrate.png
+.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/Reintegrate.png
    :alt: 
 
 Figure 11 – Re-Integration Option
@@ -90,7 +90,7 @@ stored cut points in ActiLife) or daily activity counts which allow
 users to make quick observations about the subject’s compliance level
 (see Figure 12Figure 12).
 
-.. figure:: /assets/img/AgdViewer.png
+.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/AgdViewer.png
    :alt: 
 
 Figure 12 - AGD File Viewer
@@ -99,7 +99,7 @@ Click “Edit” near the “Subject Biometric Information” section to edit
 the stored biometric variables associated with the \*.agd file. Click
 “Save” to instantly update the file with these changes.
 
-.. figure:: /assets/img/AgdViewerEdit.png
+.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/AgdViewerEdit.png
    :alt: 
 
 Figure 13 - Edit Subject Bio Data in AGD Viewer
@@ -115,7 +115,7 @@ Data can be exported to any format directly from the AGD file viewer by
 clicking on “Export Data To...” above the data graph. This is equivalent
 to selecting “Export” from the File menu.
 
-.. figure:: /assets/img/AgdViewerEpochs.png
+.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/AgdViewerEpochs.png
    :alt: 
 
 Figure 14 – Agd File Viewer Epochs
@@ -131,7 +131,7 @@ Using a Template. Once a template is loaded, details about the template
 including the template name and ‘last modified’ date will appear in the
 upper right-hand corner of the ActiLife tool as shown in Figure 15.
 
-.. figure:: /assets/img/TemplateInUse.png
+.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/TemplateInUse.png
    :alt: 
 
 Figure 15 – Template in Use Information
@@ -156,7 +156,7 @@ ActiLife. For more information, see Building and Using a Template.
 Edit Menu
 ---------
 
-.. figure:: /assets/img/EditMenu.png
+.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/EditMenu.png
    :alt: 
 
 Figure 16 – Edit Menu
@@ -351,7 +351,7 @@ bars in the Devices tab when interacting with multiple devices.
 Communication Menu
 ==================
 
-.. figure:: /assets/img/CommunicationMenu.png
+.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/CommunicationMenu.png
    :alt: 
 
 Figure 17 – Communication Menu
@@ -387,7 +387,7 @@ the file has been selected, click “OK to update the firmware.
 Tools Menu
 ==========
 
-.. figure:: /assets/img/ToolsMenu.png
+.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/ToolsMenu.png
    :alt: 
 
 Figure 18 - Tools Menu
@@ -407,7 +407,7 @@ for patients to use while they are wearing a device. Click the option
 and select a location to store the log diary (PDF format). A screenshot
 of the log diary is shown in Figure 19.
 
-.. figure:: /assets/img/SleepLog.png
+.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/SleepLog.png
    :alt: 
 
 Figure 19 - Sleep Log (Diary)
@@ -428,7 +428,7 @@ data from an ActiSleep or ActiSleep+ device, users can generate a
 Clinical Report by simply checking the box “Create Clinical Report on
 Download…” as shown in Figure 20.
 
-.. figure:: /assets/img/ClinicalReportOnDownload.png
+.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/ClinicalReportOnDownload.png
    :alt: 
 
 Figure 20 - Clinical Report on Download
@@ -469,7 +469,7 @@ More info coming soon.
 Help Menu
 ---------
 
-.. figure:: /assets/img/HelpMenu.png
+.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/HelpMenu.png
    :alt: 
 
 Figure 21 - Help Menu
@@ -501,7 +501,7 @@ should be deactivated before it is uninstalled and removed from its host
 computer. To deactivate ActiLife and reclaim the activation, select the
 Deactivate option and click “Deactivate ActiLife.”
 
-.. figure:: /assets/img/Deactivate.png
+.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/Deactivate.png
    :alt: 
 
 Figure 22 - Deactivate Dialog

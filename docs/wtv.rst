@@ -30,7 +30,7 @@ Sport, submitted to the journal on June 1, 2010. Permission to share
 this article publically has been requested by ActiGraph to the managing
 editor of Research Quarterly for Exercise and Sport.
 
-.. figure:: /assets/img/WearTimeValidation.png
+.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/WearTimeValidation.png
    :alt: 
 
 FIGURE 38 - WEAR TIME VALIDATION
@@ -118,7 +118,7 @@ After the wear-time has been calculated, details of each wear and
 non-wear bout can be viewed by clicking the “Details” button to the
 right of each dataset file name as shown in Figure 39.
 
-.. figure:: /assets/img/WtvDetailsButton.png
+.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/WtvDetailsButton.png
    :alt: 
 
 FIGURE 39 – DETAILS VIEW SHOWS EPOCH-BY-EPOCH VALIDATION
@@ -149,7 +149,7 @@ then pressing “Ctrl+V” to paste the data into a spreadsheet or text
 editor. Use the individual “export” links to export a wear or non-wear
 period into a \*.csv file.
 
-.. figure:: /assets/img/WtvDetails.png
+.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/WtvDetails.png
    :alt: 
 
 FIGURE 40 – DETAIL BREAKDOWN OF WEAR AND NON-WEAR TIME FOR A DATASET

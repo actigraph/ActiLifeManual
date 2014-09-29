@@ -13,7 +13,7 @@ immediate benefits to the Data Vault system including:
 -  Built-in data backup and retention
 -  Fast storage
 
-.. figure:: /assets/img/DataVault.png
+.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/DataVault.png
    :alt: 
 
 FIGURE 72 - ACTILIFE DATA VAULT
@@ -69,7 +69,7 @@ below the progress indicator. This will open the Data Vault Transfers
 window. From there, file transfers can be cancelled and status
 information can be viewed.
 
-.. figure:: /assets/img/DataVaultProgress.png
+.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/DataVaultProgress.png
    :alt: 
 
 FIGURE 73 - DATA VAULT TRANSFERS WINDOW
@@ -81,7 +81,7 @@ Any type of file can be uploaded to the Data Vault. Simply change the
 file type to “All Files” in the File Upload dialog as shown in Figure
 74.
 
-.. figure:: /assets/img/DataVaultFileTypes.png
+.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/DataVaultFileTypes.png
    :alt: 
 
 FIGURE 74 - CHANGING THE DATA VAULT FILE TYPE

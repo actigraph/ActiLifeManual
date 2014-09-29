@@ -35,7 +35,7 @@ parameters except for weight. That is, three females and three males
 will appear in the gender comparison, but only five users will be
 compared in the weight category.
 
-.. figure:: /assets/img/DataComparisonSubjectForm.png
+.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/DataComparisonSubjectForm.png
    :alt: 
 
 FIGURE 68 – DATA COMPARISON SUBJECT FORM
@@ -57,7 +57,7 @@ Your AGD Files”. This will force ActiLife to use only those datasets
 that meet the filter qualifications from both the NHANES data and the
 user’s local data.
 
-.. figure:: /assets/img/DataComparisonFilter.png
+.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/DataComparisonFilter.png
    :alt: 
 
 FIGURE 69 - NHANES AND SUBJECT DATA FILTER
@@ -65,7 +65,7 @@ FIGURE 69 - NHANES AND SUBJECT DATA FILTER
 The results of the filter will be summarized below the Data Filter
 section as shown in Figure 70.
 
-.. figure:: /assets/img/DataComparisonFilterResults.png
+.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/DataComparisonFilterResults.png
    :alt: 
 
 FIGURE 70 - FILTER RESULTS
@@ -77,7 +77,7 @@ Double-click on any graph to make it larger. These graphs show
 comparison between the user’s data and the NHANES data set. Double click
 the graph again to return to the normal view.
 
-.. figure:: /assets/img/DataComparisonGraph.png
+.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/DataComparisonGraph.png
    :alt: 
 
 FIGURE 71 - ENLARGED AGE COMPARISON GRAPH
