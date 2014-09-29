@@ -4,7 +4,7 @@ Getting Started
 Downloading and Installing
 --------------------------
 
-Download ActiLife 6 from http://www.theactigraph.com/actilife to a known
+Download ActiLife 6 from `http://www.theactigraph.com/actilife <http://www.theactigraph.com/actilife>`_  to a known
 location. Double-click the icon to start the installer. After running
 the ActiLife6 installer, follow the installation instructions in the
 on-screen prompts.
@@ -34,15 +34,19 @@ Licensing
 ActiLife software is a licensed program and requires users to obtain a
 product key before the software can be activated. If you have not
 purchased an ActiLife license, you may do so by visiting the ActiGraph
-store at `www.theactigraph.com/store <www.theactigraph.com/store>`__. If
+store at `http://www.theactigraph.com/store <http://www.theactigraph.com/store>`_ . If
 you have misplaced your product key, contact ActiGraph sales support at
-`support@theactigraph.com <support@theactigraph.com>`__ in order to
+`support@theactigraph.com <support@theactigraph.com>`_  in order to
 proceed. Once ActiLife 6 has been purchased or upgraded from a previous
 version, users are entitled to free updates for 12 months. After that
 period, an optional maintenance plan may be purchased. **It is highly
 recommended that users purchase the maintenance plan in order to
-guarantee access to the newest updates, features, and bug fixes.**   ##
-ACTIVATION OVER THE INTERNET ## The first time the program is launched,
+guarantee access to the newest updates, features, and bug fixes.**   
+
+Activation Over the Internet
+----------------------------
+
+The first time the program is launched,
 users will be presented with a screen similar to that shown in Figure 3.
 If you have already received a product key for your ActiLife Pro or
 ActiLife Lite software, type that product key in the box provided. If
