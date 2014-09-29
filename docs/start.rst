@@ -1,8 +1,9 @@
+===============
 Getting Started
 ===============
 
 Downloading and Installing
---------------------------
+==========================
 
 Download ActiLife 6 from `http://www.theactigraph.com/actilife <http://www.theactigraph.com/actilife>`_  to a known
 location. Double-click the icon to start the installer. After running
@@ -29,7 +30,7 @@ appear on your desktop. Double click the icon to start ActiLife 6.
   Figure 2 – ActiLife 6 Desktop Shortcut
 
 Licensing
----------
+=========
 
 ActiLife software is a licensed program and requires users to obtain a
 product key before the software can be activated. If you have not
@@ -44,7 +45,7 @@ recommended that users purchase the maintenance plan in order to
 guarantee access to the newest updates, features, and bug fixes.**   
 
 Activation Over the Internet
-----------------------------
+============================
 
 The first time the program is launched,
 users will be presented with a screen similar to that shown in Figure 3.
@@ -72,7 +73,7 @@ is required for each computer on which ActiLife is running.
   Figure 4 – ActiLife Registration Confirmation
 
 Activation Without an Internet Connection
------------------------------------------
+=========================================
 
 For users without an internet connection, ActiLife can be activated by
 contacting our technical support staff either via email
@@ -92,7 +93,7 @@ ActiLife.
   Figure 5 – Non-Internet Activation
 
 ActiLife New Feature Overview
------------------------------
+=============================
 
 Each release (update) of ActiLife provides users with a new feature
 overview. This screen (or similar) will appear immediately after loading
@@ -113,7 +114,7 @@ the menu bar and then select ‘ActiLife Tour’ as shown in Figure 7.
   Figure 7 – Run Tour From Help Menu
 
 ActiLife Data Formats
----------------------
+=====================
 
 ActiLife stores and uses data from native \*.agd files which are
 produced during the download or export process for all devices. These
