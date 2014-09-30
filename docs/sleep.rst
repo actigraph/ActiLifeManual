@@ -15,7 +15,7 @@ top of the Sleep Scoring tool and browse to an .agd file that contains
 data collected during sleep episodes. Graphs of each day in the dataset
 will appear in the “Sleep Scoring” view.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/SleepScoring.png
+.. figure:: /img/SleepScoring.png
    :alt: 
 
 FIGURE 47 – SLEEP SCORING
@@ -59,7 +59,7 @@ and Time Out of Bed [TOB]) in ActiLife by pressing the “Auto Score”
 button. ActiLife will estimate bed times for the current data set and
 apply the selected algorithm to those bed times.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/AutoSleepScore.png
+.. figure:: /img/AutoSleepScore.png
    :alt: 
 
 FIGURE 50 - AUTO SCORE SLEEP TIMES
@@ -68,7 +68,7 @@ The Auto Score feature will not ignore non-wear times (as estimated by
 the Wear Time Validation tool), but the algorithm is designed to ignore
 gaps in the sleep data as shown in Figure 51.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/AutoSleepScoreIgnored.png
+.. figure:: /img/AutoSleepScoreIgnored.png
    :alt: 
 
 FIGURE 51 - AUTO SCORE IGNORES PERIODS WHEN DEVICE WAS REMOVED
@@ -83,7 +83,7 @@ on the keyboard to adjust the time, then right-clicking anywhere on the
 graph and selecting “Finished Entering Bed Times”. This is illustrated
 in Figure 52.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/AdjustingBedTimes.png
+.. figure:: /img/AdjustingBedTimes.png
    :alt: 
 
 FIGURE 52 - ADJUSTING BED TIMES
@@ -120,7 +120,7 @@ corresponding item and choosing a different color as shown in Figure 53.
 Note that the “Period Color” is translucent and may appear slightly
 lighter than its selected color.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/ColorPallete.png
+.. figure:: /img/ColorPallete.png
    :alt: 
 
 FIGURE 53 – COLOR PALETTE FOR SLEEP SCORING GRAPH
@@ -140,12 +140,12 @@ Info” link at the bottom of the screen as shown in Figure 55. Note that
 these levels are only estimates and are not meant for exact
 interpretation of the light detected by the device.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/SleepLuxOverlay.png
+.. figure:: /img/SleepLuxOverlay.png
    :alt: 
 
 FIGURE 54 – LUX DATA OVERLAY ON SLEEP GRAPHS
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/LuxThresholds.png
+.. figure:: /img/LuxThresholds.png
    :alt: 
 
 FIGURE 55 – LUX THRESHOLDS
@@ -201,14 +201,14 @@ that uses the same “sliding window” concept as the Sadeh and Cole-Kripke
 algorithms. To get started, choose “Create New” from the Algorithm
 dropdown menu.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/CustomSleepAlgorithm.png
+.. figure:: /img/CustomSleepAlgorithm.png
    :alt: 
 
 FIGURE 56 - CUSTOM SLEEP ALGORITHM
 
 *The Custom Sleep Scoring Parameters* form shown in will load.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/CustomSleepAlgorithmForm.png
+.. figure:: /img/CustomSleepAlgorithmForm.png
    :alt: 
 
 FIGURE 57 - CUSTOM SLEEP SCORING DESIGN FORM
@@ -238,7 +238,7 @@ size of the window, adjust the “Epochs to use before current” and
 “Epochs to use after current” options; the graphic will increase or
 decrease in width automatically.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/CustomSleepAlgorithmWindow.png
+.. figure:: /img/CustomSleepAlgorithmWindow.png
    :alt: 
 
 FIGURE 58 - CUSTOM SLEEP SCORE EPOCH WINDOW
@@ -251,7 +251,7 @@ current epoch (epoch-0) is scored as wake or sleep. In the formula show
 in Figure 59, the current epoch will be scored as wake if the formula is
 greater than or equal to 10.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/CustomSleepAlgorithmFormula.png
+.. figure:: /img/CustomSleepAlgorithmFormula.png
    :alt: 
 
 FIGURE 59 - SLEEP/WAKE FORMULA
@@ -346,7 +346,7 @@ view vertically.
 **Lux** – This check box toggles the ambient light data on the ActoGram
 view (in yellow)
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/Actogram.png
+.. figure:: /img/Actogram.png
    :alt: 
 
 FIGURE 60 – ACTOGRAM VIEW
@@ -383,12 +383,12 @@ bottom right-hand side of the screen. Select the desired output from the
 options dialog that appears. Browse to the export location, type a file
 name, and click “Save” to begin the export.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/SleepReport.png
+.. figure:: /img/SleepReport.png
    :alt: 
 
 FIGURE 61 – SAVE SLEEP REPORT DIALOG
 
-.. |image0| image:: https://s3.amazonaws.com/ActiLifeManualImages/GraphingPreZoom.png
-.. |image1| image:: https://s3.amazonaws.com/ActiLifeManualImages/GraphingPostZoom.png
-.. |image2| image:: https://s3.amazonaws.com/ActiLifeManualImages/MarkingSleepPeriodsGraphically1.png
-.. |image3| image:: https://s3.amazonaws.com/ActiLifeManualImages/MarkingSleepPeriodsGraphically2.png
+.. |image0| image:: /img/GraphingPreZoom.png
+.. |image1| image:: /img/GraphingPostZoom.png
+.. |image2| image:: /img/MarkingSleepPeriodsGraphically1.png
+.. |image3| image:: /img/MarkingSleepPeriodsGraphically2.png

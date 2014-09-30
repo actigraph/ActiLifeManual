@@ -20,7 +20,7 @@ will output the graph with the current zoom view (if any). Individual
 days can be exported to pdf by checking or unchecking the days in the
 Export dialog.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/GraphingExport.png
+.. figure:: /img/GraphingExport.png
    :alt: 
 
 FIGURE 64 – GRAPHING EXPORT DIALOG
@@ -48,7 +48,7 @@ Parameter graph colors can be selected by clicking the palette icon to
 the right of the variable of interest and choosing the desired color.
 The graph will immediately update with the new color.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/GraphingLegend.png
+.. figure:: /img/GraphingLegend.png
    :alt: 
 
 FIGURE 65 – GRAPH LEGENDS
@@ -82,7 +82,7 @@ biometric information; update the “Limb” to be either “Waist” or
     Note: Only Waist and Thigh worn devices can be used with the
     Inclinometer tool
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/GraphingNoInclinometer.png
+.. figure:: /img/GraphingNoInclinometer.png
    :alt: 
 
 FIGURE 66 - FILE WITH NO INCLINOMETER DATA
@@ -95,7 +95,7 @@ Notes area will be stored with the \*.agd file and will be available in
 the PDF report and in any subsequent interaction with the Inclinometer
 tool for that particular file.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/GraphingInclinometer.png
+.. figure:: /img/GraphingInclinometer.png
    :alt: 
 
 FIGURE 67 - INCLINOMETER OUTPUT

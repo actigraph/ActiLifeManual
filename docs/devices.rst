@@ -7,7 +7,7 @@ presented with the “Devices” screen similar to the one shown in Figure
 simultaneously. Devices can be connected either before or after ActiLife
 is launched.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/OpeningScreen.png
+.. figure:: /img/OpeningScreen.png
    :alt: 
 
 FIGURE 23 – OPENING SCREEN   > Important: Attempting to communicate with
@@ -23,7 +23,7 @@ As shown in Figure 24, device status information will appear in the
 “Devices” tab as devices are connected to the computer. Device status
 information is provided in the Devices grid.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/DeviceTool.png
+.. figure:: /img/DeviceTool.png
    :alt: 
 
 FIGURE 24 - ACTILIFE DEVICES TOOL
@@ -236,7 +236,7 @@ Select a check box corresponding to the devices to be initialized (or
 select all devices”) and click “Initialize.” A dialog similar to Figure
 25 will appear.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/InitDialog.png
+.. figure:: /img/InitDialog.png
    :alt: 
 
 FIGURE 25 - INITIALIZATION DIALOG FOR GT3X+ VS GT3X
@@ -288,7 +288,7 @@ downloaded from the device. To add or change a name, highlight the
 subject name cell. Note that GT3X+ devices (devices with serial numbers
 beginning with ‘NEO’) will store more information.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/SubjectName.png
+.. figure:: /img/SubjectName.png
    :alt: 
 
 FIGURE 26 – SUBJECT NAME ENTRY FORM
@@ -358,7 +358,7 @@ changed later or you can select ‘Prompt for Each Download’ to enter
 unique names for each downloaded device. These options help to prevent
 name duplication during batch downloading.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/DownloadOptions.png
+.. figure:: /img/DownloadOptions.png
    :alt: 
 
 FIGURE 27 – DOWNLOAD OPTIONS WINDOW
@@ -380,7 +380,7 @@ the box entitled “Add biometric and user information” to expand the
 details grid below the download form. This form is shown in Figure 28.
 All of the fields shown here are optional.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/DownloadBiometric.png
+.. figure:: /img/DownloadBiometric.png
    :alt: 
 
 FIGURE 28 - DOWNLOAD OPTIONS WITH BIOMETRIC INFORMATION
@@ -455,7 +455,7 @@ the metadata grid as shown in Figure 29. Additionally, the “Add
 Biometric and User Information” check box option will be permanently
 selected and entry of the custom fields will be required.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/CustomFields.png
+.. figure:: /img/CustomFields.png
    :alt: 
 
 FIGURE 29 – CUSTOM FIELDS IN THE BIOMETRIC AND USER INFORMATION GRID
@@ -509,7 +509,7 @@ To view the \*.gt3x files, select “Communication->Show Download Folder”
 from the main menu in ActiLife5. Files will appear in this folder as
 shown in Figure 30.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/gt3xFiles.png
+.. figure:: /img/gt3xFiles.png
    :alt: 
 
 FIGURE 30 – \*.GT3X FILES
@@ -517,7 +517,7 @@ FIGURE 30 – \*.GT3X FILES
 UNCOMPRESSING *.GT3X FILES ### Binary *.gt3x files can be uncompressed to *agd (for use in ActiLife), *\ csv, or *.dat file format. Users have the option of creating *.agd files during the download process by checking “Create AGD File” from within the download prompt (see Figure 31). Because GT3X+ devices record raw accelerometer data (see Appendix A – File Types in ActiLife for details), the parameters for the uncompressed file must be set at the time of download if the “Create AGD File” option is checked. These parameters include the uncompressed epoch length, the number of axes, step counting, lux (light data), inclinometer (standing, sitting, lying, or off detection), and/or low frequency extension. For an explanation of these parameters, see Available Channels (Modes) for details.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/CreateAgd.png
+.. figure:: /img/CreateAgd.png
    :alt: 
 
 FIGURE 31 - CREATING AN AGD FILE ON DOWNLOAD
@@ -537,7 +537,7 @@ added, the desired file type(s), epoch length, and parameters can be
 selected within the export tool. Select “Create File(s)” to export these
 files to the default download directory.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/Gt3xExport.png
+.. figure:: /img/Gt3xExport.png
    :alt: 
 
 FIGURE 32 – GT3X+ EXPORT TOOL
@@ -546,7 +546,7 @@ The GT3X+ export tool can also be accessed by clicking “finished
 downloading” hyperlink from the devices grid after downloading as shown
 in Figure 33.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/FinishedDownloading.png
+.. figure:: /img/FinishedDownloading.png
    :alt: 
 
 FIGURE 33 – FINISHED DOWNLOADING HYPERLINK IN DEVICES GRID
@@ -556,7 +556,7 @@ Figure 34 will launch the AGD viewer, since these downloads produce an
 \*.agd file by default (see Appendix A – File Types in ActiLife for more
 information).
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/FinishedDownloadLink.png
+.. figure:: /img/FinishedDownloadLink.png
    :alt: 
 
 FIGURE 34 – “FINISHED DOWNLOADING…” LINK IN STATUS COLUMN. LINKS TO AGD
@@ -588,7 +588,7 @@ one shown in Figure 35. Use this form to setup the desired default
 initialization and download parameters defined below in Template
 Parameters.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/TemplateEditor.png
+.. figure:: /img/TemplateEditor.png
    :alt: 
 
 FIGURE 35 – INITIALIZATION/DOWNLOAD TEMPLATE EDITOR
@@ -689,7 +689,7 @@ and will be contained in the *.agd file. For details about the *.agd
 schema, see Appendix A – File Types in ActiLife. In ActiLife version
 5.6.0 or later, custom fields appear in the AGD File Viewer.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/DownloadCustomFields.png
+.. figure:: /img/DownloadCustomFields.png
    :alt: 
 
 FIGURE 36 – CUSTOM FIELDS AS THEY APPEAR AFTER CLICKING “DOWNLOAD”
@@ -741,7 +741,7 @@ emailed to distribution centers or shared over local networks within
 organizations. Users who load this template will be forced to use the
 parameters as they were defined in the template editor.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/TemplateFile.png
+.. figure:: /img/TemplateFile.png
    :alt: 
 
 FIGURE 37 – TEMPLATE FILE SAVED TO A USER’S DESKTOP

@@ -8,7 +8,7 @@ dataset(s) by examining Energy Expenditure, METs, Activity Cut Points,
 Activity Bouts, and Heart Rate Energy Expenditure. Figure 41 illustrates
 the Data Scoring tool in action.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/DataScoring.png
+.. figure:: /img/DataScoring.png
    :alt: 
 
 FIGURE 41 - DATA SCORING
@@ -33,7 +33,7 @@ for Weekends from 6am-10am and then a Weekend Afternoons filter for
 Weekends from 3pm-6pm would produce data scoring results for both of
 those time periods only.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/FilterEntry.png
+.. figure:: /img/FilterEntry.png
    :alt: 
 
 FIGURE 42 - DATE/TIME FILTER ENTRY
@@ -100,7 +100,7 @@ epoch.
 Details about the default Cut Point algorithms in ActiLife can be found
 by clicking the “?” icon next to the Cut Points option.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/CutPointSets.png
+.. figure:: /img/CutPointSets.png
    :alt: 
 
 FIGURE 43 - CUSTOM AND DEFAULT CUT POINTS
@@ -1195,7 +1195,7 @@ The “Use Validated Data if Available” checkbox option (shown in Figure
 the Wear Time Validation tool (checked) or whether to use all epochs
 within the file (unchecked) to perform the Data Scoring.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/UseValidatedData.png
+.. figure:: /img/UseValidatedData.png
    :alt: 
 
 FIGURE 44 - USE VALIDATED DATA IF AVAILABLE
@@ -1209,7 +1209,7 @@ the selected columns and to enable/disable columns. Enabling more
 columns will extend the time required for ActiLife to perform the
 calculations and the batch data export (if used).
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/DataScoringColumns.png
+.. figure:: /img/DataScoringColumns.png
    :alt: 
 
 FIGURE 45 - DATA SCORING COLUMNS
@@ -1414,7 +1414,7 @@ calculation in the Data Scoring tab. Check the “Create Batch View…”
 option as shown in Figure 46. Select any of the desired export options
 and click “Export…”
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/DataScoringExportOptions.png
+.. figure:: /img/DataScoringExportOptions.png
    :alt: 
 
 FIGURE 46 - DATA SCORING EXPORT OPTIONS

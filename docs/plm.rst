@@ -35,7 +35,7 @@ This can be accomplished with bandage wrapping or with straps available
 from ActiGraph. Patients should wear the device during the entire
 duration of their total time in bed.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/PlmWearLocation.png
+.. figure:: /img/PlmWearLocation.png
    :alt: 
 
 FIGURE 62 - WEAR LOCATION FOR PLM ANALYSIS
@@ -55,7 +55,7 @@ dialog as shown in the figure below. Select 1s epoch and 3 axes. The
 other options are optional, but “Low Frequency Extension” should not be
 selected.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/PlmDownloadSettings.png
+.. figure:: /img/PlmDownloadSettings.png
    :alt: 
 
 FIGURE 63 - DOWNLOAD SETTINGS FOR PLM ANALYSIS

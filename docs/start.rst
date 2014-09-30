@@ -10,7 +10,7 @@ location. Double-click the icon to start the installer. After running
 the ActiLife6 installer, follow the installation instructions in the
 on-screen prompts.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/ActiLifeSetupIcon.png
+.. figure:: /img/ActiLifeSetupIcon.png
   :alt: ActiLife Setup Icon
 
   Figure 1 - ActiLife 6 Setup Icon
@@ -24,7 +24,7 @@ on-screen prompts.
 After installing ActiLife, an icon similar to the one shown here will
 appear on your desktop. Double click the icon to start ActiLife 6.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/ActiLifeDesktopShortcut.png
+.. figure:: /img/ActiLifeDesktopShortcut.png
   :alt: ActiLife 6 Desktop Shortcut
 
   Figure 2 – ActiLife 6 Desktop Shortcut
@@ -62,12 +62,12 @@ to whom the license is registered. **Name, Email, and Organization
 fields must be populated in order to continue**. This activation process
 is required for each computer on which ActiLife is running.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/Activation.png
+.. figure:: /img/Activation.png
   :alt: ActiLife Activation Screen
 
   Figure 3 – ActiLife Activation Screen
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/RegistrationConfirmation.png
+.. figure:: /img/RegistrationConfirmation.png
   :alt: ActiLife Registration Confirmation
 
   Figure 4 – ActiLife Registration Confirmation
@@ -87,7 +87,7 @@ representative will provide a confirmation code. Type or copy/paste the
 confirmation code into the box provided. Click ‘Next’ to activate
 ActiLife.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/OfflineActivation.png
+.. figure:: /img/OfflineActivation.png
   :alt: Non-Internet Activation
 
   Figure 5 – Non-Internet Activation
@@ -100,7 +100,7 @@ overview. This screen (or similar) will appear immediately after loading
 ActiLife 6 for the first time. Note that this screen will change with
 each release to quickly illustrate the new features.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/WelcomeScreen.png
+.. figure:: /img/WelcomeScreen.png
   :alt: ActiLife Welcome Screen
 
   Figure 6 – ActiLife Welcome Screen
@@ -108,7 +108,7 @@ each release to quickly illustrate the new features.
 To view this welcome screen again at any time, select the ‘Help’ tab in
 the menu bar and then select ‘ActiLife Tour’ as shown in Figure 7.
 
-.. figure:: https://s3.amazonaws.com/ActiLifeManualImages/RunWelcomeTour.png
+.. figure:: /img/RunWelcomeTour.png
   :alt: Run Tour From Help Menu
 
   Figure 7 – Run Tour From Help Menu
