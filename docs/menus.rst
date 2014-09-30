@@ -3,7 +3,7 @@ ActiLife Menu Items
 ==================
 
 File Menu
----------
+=========
 
 The file menu in ActiLife contains options related to file manipulation,
 AGD file analysis, and template loading and editing.
@@ -154,7 +154,7 @@ ActiLife. For more information, see Building and Using a Template.
 	.. note:: The template editor is not available in ActiLife LITE.
 
 Edit Menu
----------
+=========
 
 .. figure:: https://s3.amazonaws.com/ActiLifeManualImages/EditMenu.png
    :alt: 
@@ -169,10 +169,7 @@ options that control how ActiLife functions. To change any option, make
 the change then click ‘Apply’ in the Options panel. Click ‘OK’ to close
 the panel.
 
-General Options
-===============
-
-Update Options
+Options
 --------------
 
 | Checking “Check for Program Updates” enables ActiLife’s auto-update
@@ -228,18 +225,12 @@ Directories
 Use this option to set the default directories for data downloads,
 firmware storage, and CSV file creation
 
-Downloading
-===========
-
 Download Naming Convention
 --------------------------
 
 These options set the default naming convention for downloaded files.
 During the download process, users have the option to change this
 option.
-
-Create File Options
-===================
 
 Create DAT and CSV with AGD Download
 ------------------------------------
@@ -462,7 +453,7 @@ Merge AGD
 More info coming soon.
 
 Help Menu
----------
+=========
 
 .. figure:: https://s3.amazonaws.com/ActiLifeManualImages/HelpMenu.png
    :alt: 
