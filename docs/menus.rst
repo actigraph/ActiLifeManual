@@ -9,7 +9,9 @@ The file menu in ActiLife contains options related to file manipulation,
 AGD file analysis, and template loading and editing.
 
 .. figure:: /img/FileMenu.png
-   :alt: 
+   :alt: File Menu
+
+   File Menu
 
 Import/Export
 -------------
@@ -42,7 +44,7 @@ options that are shown in Figure 10.
 .. figure:: /img/ImportExportMenu.png
    :alt: 
 
-Figure 10 – ActiLife Import and Export Menu
+   ActiLife Import and Export Menu
 
 Converting to a Data Table vs. Standard .CSV
 --------------------------------------------
@@ -72,9 +74,9 @@ in the same directory as the existing file with an appended file name
 indicating the new epoch length.
 
 .. figure:: /img/Reintegrate.png
-   :alt: 
+   :alt: Re-Integration Option
 
-Figure 11 – Re-Integration Option
+   Re-Integration Option
 
 AGD File Viewer
 ---------------
@@ -88,21 +90,21 @@ downloaded. With ActiLife 6.1 and later, the AGD viewer provides a
 graphical summary view of both activity cut points (according to the
 stored cut points in ActiLife) or daily activity counts which allow
 users to make quick observations about the subject’s compliance level
-(see Figure 12Figure 12).
+(see Figure 12).
 
 .. figure:: /img/AgdViewer.png
-   :alt: 
+   :alt: AGD File Viewer
 
-Figure 12 - AGD File Viewer
+   AGD File Viewer
 
 Click “Edit” near the “Subject Biometric Information” section to edit
 the stored biometric variables associated with the \*.agd file. Click
 “Save” to instantly update the file with these changes.
 
 .. figure:: /img/AgdViewerEdit.png
-   :alt: 
+   :alt: Edit Subject Bio Data in AGD Viewer
 
-Figure 13 - Edit Subject Bio Data in AGD Viewer
+   Edit Subject Bio Data in AGD Viewer
 
 Clicking “Show Data” in the AGD viewer will display hour-long previews
 of the data in a grid format. The hourly view can be changed by clicking
@@ -116,9 +118,9 @@ clicking on “Export Data To...” above the data graph. This is equivalent
 to selecting “Export” from the File menu.
 
 .. figure:: /img/AgdViewerEpochs.png
-   :alt: 
+   :alt: Agd File Viewer Epochs
 
-Figure 14 – Agd File Viewer Epochs
+   Agd File Viewer Epochs
 
 Load Template
 -------------
@@ -132,9 +134,9 @@ including the template name and ‘last modified’ date will appear in the
 upper right-hand corner of the ActiLife tool as shown in Figure 15.
 
 .. figure:: /img/TemplateInUse.png
-   :alt: 
+   :alt: Template in Use Information
 
-Figure 15 – Template in Use Information
+   Template in Use Information
 
 Remove Template
 ---------------
@@ -157,9 +159,9 @@ Edit Menu
 =========
 
 .. figure:: /img/EditMenu.png
-   :alt: 
+   :alt: Edit Menu
 
-Figure 16 – Edit Menu
+   Edit Menu
 
 The “Copy” and “Select All” options in the Edit menu allow users to
 select and copy elements in the selected grid so that they may be pasted
@@ -338,9 +340,9 @@ Communication Menu
 ==================
 
 .. figure:: /img/CommunicationMenu.png
-   :alt: 
+   :alt: Communication Menu
 
-Figure 17 – Communication Menu
+   Communication Menu
 
 Show Download Folder
 --------------------
@@ -374,9 +376,9 @@ Tools Menu
 ==========
 
 .. figure:: /img/ToolsMenu.png
-   :alt: 
+   :alt: Tools Menu
 
-Figure 18 - Tools Menu
+   Tools Menu
 
 The Tools menu contains options for printing a sleep diary, creating a
 clinical report, correlating GPS data with data from ActiGraph devices
@@ -394,9 +396,9 @@ and select a location to store the log diary (PDF format). A screenshot
 of the log diary is shown in Figure 19.
 
 .. figure:: /img/SleepLog.png
-   :alt: 
+   :alt: Sleep Log (Diary)
 
-Figure 19 - Sleep Log (Diary)
+   Sleep Log (Diary)
 
 Clinical Report
 ---------------
@@ -415,9 +417,9 @@ Clinical Report by simply checking the box “Create Clinical Report on
 Download…” as shown in Figure 20.
 
 .. figure:: /img/ClinicalReportOnDownload.png
-   :alt: 
+   :alt: Clinical Report on Download
 
-Figure 20 - Clinical Report on Download
+   Clinical Report on Download
 
 The report can also be generated after a data download through the tools
 menu. Select the \*.agd file that was generated from an ActiSleep or
@@ -456,9 +458,9 @@ Help Menu
 =========
 
 .. figure:: /img/HelpMenu.png
-   :alt: 
+   :alt: Help Menu
 
-Figure 21 - Help Menu
+   Help Menu
 
 Online Support
 --------------
@@ -488,9 +490,9 @@ computer. To deactivate ActiLife and reclaim the activation, select the
 Deactivate option and click “Deactivate ActiLife.”
 
 .. figure:: /img/Deactivate.png
-   :alt: 
+   :alt: Deactivate Dialog
 
-Figure 22 - Deactivate Dialog
+   Deactivate Dialog
 
 Check For Updates
 -----------------

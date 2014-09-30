@@ -13,7 +13,7 @@ on-screen prompts.
 .. figure:: /img/ActiLifeSetupIcon.png
   :alt: ActiLife Setup Icon
 
-  Figure 1 - ActiLife 6 Setup Icon
+  ActiLife 6 Setup Icon
 
 
   .. note:: Please be sure to remove any ActiGraph devices that you have connected to your computer during installation. Failure to do so could result in a faulty installation of your ActiLife software.
@@ -27,7 +27,7 @@ appear on your desktop. Double click the icon to start ActiLife 6.
 .. figure:: /img/ActiLifeDesktopShortcut.png
   :alt: ActiLife 6 Desktop Shortcut
 
-  Figure 2 – ActiLife 6 Desktop Shortcut
+  ActiLife 6 Desktop Shortcut
 
 Licensing
 =========
@@ -65,12 +65,12 @@ is required for each computer on which ActiLife is running.
 .. figure:: /img/Activation.png
   :alt: ActiLife Activation Screen
 
-  Figure 3 – ActiLife Activation Screen
+  ActiLife Activation Screen
 
 .. figure:: /img/RegistrationConfirmation.png
   :alt: ActiLife Registration Confirmation
 
-  Figure 4 – ActiLife Registration Confirmation
+  ActiLife Registration Confirmation
 
 Activation Without an Internet Connection
 =========================================
@@ -90,7 +90,7 @@ ActiLife.
 .. figure:: /img/OfflineActivation.png
   :alt: Non-Internet Activation
 
-  Figure 5 – Non-Internet Activation
+  Non-Internet Activation
 
 ActiLife New Feature Overview
 =============================
@@ -103,7 +103,7 @@ each release to quickly illustrate the new features.
 .. figure:: /img/WelcomeScreen.png
   :alt: ActiLife Welcome Screen
 
-  Figure 6 – ActiLife Welcome Screen
+  ActiLife Welcome Screen
 
 To view this welcome screen again at any time, select the ‘Help’ tab in
 the menu bar and then select ‘ActiLife Tour’ as shown in Figure 7.
@@ -111,7 +111,7 @@ the menu bar and then select ‘ActiLife Tour’ as shown in Figure 7.
 .. figure:: /img/RunWelcomeTour.png
   :alt: Run Tour From Help Menu
 
-  Figure 7 – Run Tour From Help Menu
+  Run Tour From Help Menu
 
 ActiLife Data Formats
 =====================
